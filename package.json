@@ -1,0 +1,17 @@
+{
+  "name": "tweet-like-me",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^9.0.0",
+    "markov-generator": "^1.2.3",
+    "mongoose": "^5.12.7",
+    "twit": "^2.2.11"
+  }
+}
